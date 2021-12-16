@@ -9,7 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var nightImageView: UIImageView!
+
+    @IBOutlet weak var meditationbutton: UIButton!
     
   
     override func viewDidLoad() {
@@ -18,6 +19,7 @@ class ViewController: UIViewController {
       
     }
 
-
+  
+    
 }
 

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FB2C1AA1276BB6CF000490A5 /* MeditationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2C1AA0276BB6CF000490A5 /* MeditationViewController.swift */; };
 		FB6C5D8C2763E87000730D07 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6C5D8B2763E87000730D07 /* AppDelegate.swift */; };
 		FB6C5D8E2763E87000730D07 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6C5D8D2763E87000730D07 /* SceneDelegate.swift */; };
 		FB6C5D902763E87000730D07 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6C5D8F2763E87000730D07 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FB2C1AA0276BB6CF000490A5 /* MeditationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeditationViewController.swift; sourceTree = "<group>"; };
 		FB6C5D882763E87000730D07 /* Final Semester App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Final Semester App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB6C5D8B2763E87000730D07 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FB6C5D8D2763E87000730D07 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				FB6C5D8D2763E87000730D07 /* SceneDelegate.swift */,
 				FB6C5D8F2763E87000730D07 /* ViewController.swift */,
 				FB6C5D912763E87000730D07 /* Main.storyboard */,
+				FB2C1AA0276BB6CF000490A5 /* MeditationViewController.swift */,
 				FB6C5D942763E87200730D07 /* Assets.xcassets */,
 				FB6C5D962763E87200730D07 /* LaunchScreen.storyboard */,
 				FB6C5D992763E87200730D07 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				FB6C5D902763E87000730D07 /* ViewController.swift in Sources */,
 				FB6C5D8C2763E87000730D07 /* AppDelegate.swift in Sources */,
+				FB2C1AA1276BB6CF000490A5 /* MeditationViewController.swift in Sources */,
 				FB6C5D8E2763E87000730D07 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
